@@ -1,0 +1,7 @@
+C:\Users\Maia\source\repos\StreamReaderLinha\StreamReaderLinha\bin\Debug\StreamReaderLinha.exe.config
+C:\Users\Maia\source\repos\StreamReaderLinha\StreamReaderLinha\bin\Debug\StreamReaderLinha.exe
+C:\Users\Maia\source\repos\StreamReaderLinha\StreamReaderLinha\bin\Debug\StreamReaderLinha.pdb
+C:\Users\Maia\source\repos\StreamReaderLinha\StreamReaderLinha\obj\Debug\StreamReaderLinha.csprojAssemblyReference.cache
+C:\Users\Maia\source\repos\StreamReaderLinha\StreamReaderLinha\obj\Debug\StreamReaderLinha.csproj.CoreCompileInputs.cache
+C:\Users\Maia\source\repos\StreamReaderLinha\StreamReaderLinha\obj\Debug\StreamReaderLinha.exe
+C:\Users\Maia\source\repos\StreamReaderLinha\StreamReaderLinha\obj\Debug\StreamReaderLinha.pdb

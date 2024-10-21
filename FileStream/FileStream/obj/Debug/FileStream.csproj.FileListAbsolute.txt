@@ -1,0 +1,7 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStream\FileStream\bin\Debug\FileStream.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStream\FileStream\bin\Debug\FileStream.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStream\FileStream\bin\Debug\FileStream.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStream\FileStream\obj\Debug\FileStream.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStream\FileStream\obj\Debug\FileStream.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStream\FileStream\obj\Debug\FileStream.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStream\FileStream\obj\Debug\FileStream.pdb

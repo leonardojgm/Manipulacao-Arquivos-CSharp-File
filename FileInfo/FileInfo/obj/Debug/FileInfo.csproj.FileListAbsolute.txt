@@ -1,0 +1,6 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileInfo\FileInfo\bin\Debug\FileInfo.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileInfo\FileInfo\bin\Debug\FileInfo.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileInfo\FileInfo\bin\Debug\FileInfo.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileInfo\FileInfo\obj\Debug\FileInfo.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileInfo\FileInfo\obj\Debug\FileInfo.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileInfo\FileInfo\obj\Debug\FileInfo.pdb

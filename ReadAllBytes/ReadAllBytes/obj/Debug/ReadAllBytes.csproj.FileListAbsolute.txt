@@ -1,0 +1,7 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllBytes\ReadAllBytes\bin\Debug\ReadAllBytes.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllBytes\ReadAllBytes\bin\Debug\ReadAllBytes.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllBytes\ReadAllBytes\bin\Debug\ReadAllBytes.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllBytes\ReadAllBytes\obj\Debug\ReadAllBytes.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllBytes\ReadAllBytes\obj\Debug\ReadAllBytes.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllBytes\ReadAllBytes\obj\Debug\ReadAllBytes.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllBytes\ReadAllBytes\obj\Debug\ReadAllBytes.pdb

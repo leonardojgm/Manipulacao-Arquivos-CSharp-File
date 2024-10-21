@@ -1,0 +1,7 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamReader\StreamReader\bin\Debug\StreamReader.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamReader\StreamReader\bin\Debug\StreamReader.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamReader\StreamReader\bin\Debug\StreamReader.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamReader\StreamReader\obj\Debug\StreamReader.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamReader\StreamReader\obj\Debug\StreamReader.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamReader\StreamReader\obj\Debug\StreamReader.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamReader\StreamReader\obj\Debug\StreamReader.pdb

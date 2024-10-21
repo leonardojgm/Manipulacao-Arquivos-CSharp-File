@@ -1,0 +1,6 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.pdb

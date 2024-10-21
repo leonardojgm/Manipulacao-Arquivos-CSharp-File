@@ -1,0 +1,6 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamUsing\FileStreamUsing\bin\Debug\FileStreamUsing.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamUsing\FileStreamUsing\bin\Debug\FileStreamUsing.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamUsing\FileStreamUsing\bin\Debug\FileStreamUsing.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamUsing\FileStreamUsing\obj\Debug\FileStreamUsing.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamUsing\FileStreamUsing\obj\Debug\FileStreamUsing.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamUsing\FileStreamUsing\obj\Debug\FileStreamUsing.pdb

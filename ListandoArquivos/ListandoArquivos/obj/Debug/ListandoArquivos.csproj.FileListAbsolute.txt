@@ -1,0 +1,6 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ListandoArquivos\ListandoArquivos\bin\Debug\ListandoArquivos.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ListandoArquivos\ListandoArquivos\bin\Debug\ListandoArquivos.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ListandoArquivos\ListandoArquivos\bin\Debug\ListandoArquivos.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ListandoArquivos\ListandoArquivos\obj\Debug\ListandoArquivos.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ListandoArquivos\ListandoArquivos\obj\Debug\ListandoArquivos.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ListandoArquivos\ListandoArquivos\obj\Debug\ListandoArquivos.pdb

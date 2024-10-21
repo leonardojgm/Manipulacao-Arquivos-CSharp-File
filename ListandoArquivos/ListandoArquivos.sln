@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListandoArquivos", "ListandoArquivos\ListandoArquivos.csproj", "{52B7662A-0806-49D1-9CBE-3A89768EBB77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B7662A-0806-49D1-9CBE-3A89768EBB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B7662A-0806-49D1-9CBE-3A89768EBB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B7662A-0806-49D1-9CBE-3A89768EBB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B7662A-0806-49D1-9CBE-3A89768EBB77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC604CD-5AC2-42A8-93BF-50D9B3C86FFF}
+	EndGlobalSection
+EndGlobal

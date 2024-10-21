@@ -1,0 +1,7 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamWriter\StreamWriter\bin\Debug\StreamWriter.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamWriter\StreamWriter\obj\Debug\StreamWriter.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\StreamWriter\StreamWriter\obj\Debug\StreamWriter.pdb

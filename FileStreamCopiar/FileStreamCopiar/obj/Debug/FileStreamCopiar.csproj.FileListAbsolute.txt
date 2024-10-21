@@ -1,0 +1,6 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamCopiar\FileStreamCopiar\bin\Debug\FileStreamCopiar.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamCopiar\FileStreamCopiar\bin\Debug\FileStreamCopiar.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamCopiar\FileStreamCopiar\bin\Debug\FileStreamCopiar.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamCopiar\FileStreamCopiar\obj\Debug\FileStreamCopiar.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamCopiar\FileStreamCopiar\obj\Debug\FileStreamCopiar.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamCopiar\FileStreamCopiar\obj\Debug\FileStreamCopiar.pdb

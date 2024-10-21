@@ -1,0 +1,6 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllLines\ReadAllLines\bin\Debug\ReadAllLines.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllLines\ReadAllLines\bin\Debug\ReadAllLines.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllLines\ReadAllLines\bin\Debug\ReadAllLines.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllLines\ReadAllLines\obj\Debug\ReadAllLines.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllLines\ReadAllLines\obj\Debug\ReadAllLines.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\ReadAllLines\ReadAllLines\obj\Debug\ReadAllLines.pdb

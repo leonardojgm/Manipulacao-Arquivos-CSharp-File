@@ -1,0 +1,7 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\WriteAllLines\WriteAllLines\bin\Debug\WriteAllLines.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\WriteAllLines\WriteAllLines\bin\Debug\WriteAllLines.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\WriteAllLines\WriteAllLines\bin\Debug\WriteAllLines.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\WriteAllLines\WriteAllLines\obj\Debug\WriteAllLines.csprojAssemblyReference.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\WriteAllLines\WriteAllLines\obj\Debug\WriteAllLines.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\WriteAllLines\WriteAllLines\obj\Debug\WriteAllLines.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\WriteAllLines\WriteAllLines\obj\Debug\WriteAllLines.pdb

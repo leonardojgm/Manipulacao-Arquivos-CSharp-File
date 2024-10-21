@@ -1,0 +1,6 @@
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\FileStreamStreamReader.exe.config
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\FileStreamStreamReader.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\FileStreamStreamReader.pdb
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\FileStreamStreamReader.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\FileStreamStreamReader.exe
+E:\Textos\Estudos\Cursos\C#\Código Logo\File\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\FileStreamStreamReader.pdb
